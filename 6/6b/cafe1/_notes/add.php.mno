@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kasir" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_kategori" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_produk" value="name:id;datatype:int,name:name;datatype:string,name:price;datatype:int,name:id_category;datatype:int,name:id_cashier;datatype:int" />
+</info>
